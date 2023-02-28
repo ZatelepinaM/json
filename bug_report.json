@@ -1,0 +1,7 @@
+{ "1." : "summary",
+"2" : "seveority",
+"3" : "priority",
+"4" : "steps to reproduce",
+"5." : "expected result",
+"6" : "actual result"
+}
